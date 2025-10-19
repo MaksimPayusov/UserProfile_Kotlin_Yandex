@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="green_dark_theme">#FF1DB954</color>
+    <color name="green_light_theme">#FF60B970</color>
+    <color name="accent_grey">#FF7E7E7E</color>
+    <color name="error_color">#FFCF6679</color>
+    <color name="app_black">#FF121212</color>
+    <color name="app_dark_background">#FF121212</color>
+    <color name="app_white">#FFFAFAFA</color>
+    <color name="app_off_white">#FFFAFAFA</color>
+</resources>
